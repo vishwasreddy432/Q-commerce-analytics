@@ -1,21 +1,9 @@
-# GonapatiVishwasReddy-Data Analyst
-Hi, I'm Gonapati vishwas reddy 👋
+# Q-Commerce Analysis
 <br>
-*Data Analyst* —  Excel • SQL • Tableau • PowerBI • Python • 
+The Q-commerce Dashboard is an interactive project built with Power BI to visualize key insights across differnt Platforms like swiggy instamart,Blinkit etc, Product_categories, and Ratings, offering a 360° view of Platforms performance and customer trends.To provide a comprehensive analytical view of Commerce  operations that helps identify performance trends, improve efficiency, and strengthen decision-making through data visualization.
 
-🔭 Current project: *Q-Commerce Analysis* (Python + Tableau + MySQL)
+# Dataset
 <br>
-✅ I write Queries, Codes and Business Intelligence Tools
-<br>
-🌱 Learning: Machine learning
-<br>
-🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/gonapati-vishwas-reddy-9b6629307
+Qcommerce Dataset -
 
-Tech
-Excel,SQL,Tableau,PowerBi,Statistics,Python-Pandas,Numpy,Matplotlib,EDA
-
-Projects (Pinned below)
-1. Q-commerce – Python,PowerBi,MySQL
-2. Bank Analysis – Excel,SQL,PowerBI,Tableau,Python
-3. E-Commerce Analysis – Excel,SQL,PowerBI,Tableau
 
