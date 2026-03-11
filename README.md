@@ -8,7 +8,7 @@ Qcommerce Dataset - https://github.com/vishwasreddy432/Q-commerce-analytics/blob
 Tools Used: Python,Excel,MY SQL.
 # Project Process
 - Data Collection: Gathered raw Q -Commerce sales data containing companies, item types, and ratings.
-- Data Cleaning: Removed duplicates, handled missing values, and standardized columns using Excel and SQL.
+- Data Cleaning: Removed duplicates, handled missing values, and standardized columns using Python.
 - Data Transformation: Structured and modeled data into relational tables for accurate analysis.
 - Data Visualization: Imported cleaned data into Excel to build interactive dashboards and KPI visuals.
 - Insight Generation: Interpreted key metrics such as total Revenue, Average Ratings, and contribution.
